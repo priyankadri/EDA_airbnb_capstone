@@ -30,6 +30,9 @@ Target Audience The insights drawn could be helpful for both Hosts and Users. Ho
 Our storyboard has been categorized into four categories-
 
 1.Overview of Airbnb
+
 2.Property analysis
+
 3.Pricing analysis
+
 4.Host analysis
