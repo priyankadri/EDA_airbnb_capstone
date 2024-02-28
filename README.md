@@ -19,7 +19,7 @@ Airbnb Statistics • Over 4 million listings worldwide • 150 million users in
 
 Data Cleaning
 
-Initially, Data was very messy and uncleaned, so we used external tools to make it ready for the Visualization. Data cleaning has been done using Jupyter Notebook and Tableau Prep. Finally, the cleaned datasets of both the cities are merged in Jupyter Notebook to get the ‘Final Dataset’ which has been used for doing the visualizations.
+Initially, Data was very messy and uncleaned, so we used external tools to make it ready for the Visualization. Data cleaning has been done using python. Finally, the cleaned datasets of both the cities are merged in google collab to get the ‘Final Dataset’ which has been used for doing the visualizations.
 
 Visualization Tool
 
